@@ -11,14 +11,15 @@
   },
   "projects": [
     {
-      "title": "Ecommerce Store",
+      "title": "Mileage Expense Tracker",
       "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Log & track business-related travel expenses with access to precise mapping through a mobile/pc friendly interface to create your drives before tax season. Full Stack (MERN) website integrated with REST. Features include secure user registration through One-click w/ OAuth 2.0 via google or JSON Web Token (JWT), Google Maps API for rendering map data and directions, CSS framework Material UI to create a responsive styled UI, and Export feature to print/download into CSV to file or compile with other data.",
       "images": [
         "https://i.imgur.com/wNfUR97.png",
         "https://i.imgur.com/OogChWQ.jpg",
         "https://i.imgur.com/9uPBwDz.jpg",
-        "https://i.imgur.com/eIJ2Skw.jpg"
+        "https://i.imgur.com/eIJ2Skw.jpg",
+        "https://i.imgur.com/hoLDZyk.png"
       ],
       "url": "https://mileage-expnese-tracker.netlify.app/",
       "code": "https://github.com/helboi559/expense-tracker-frontend",
@@ -50,11 +51,19 @@
         {
           "class": "devicon-heroku-plain",
           "name": "Heroku"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        },
+        {
+          "class": "devicon-github-plain",
+          "name": "Github"
         }
       ]
     },
     {
-      "title": "Mileage Expense Tracker",
+      "title": "ECommerce Store",
       "startDate": "2018",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
@@ -123,28 +132,22 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "Independent",
+      "title": "Independent Web Developer",
+      "years": "01.2022- present",
+      "mainTech": ["React -Present"],
       "technologies": [
         "REST API",
-        "RxJS",
+        "OAuth 2.0",
         "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "JWT(JSON Web Token)",
+        "Material UI",
+        "Git",
+        "GitHub",
+        "HTML",
+        "CSS",
+        "Sendgrid"
       ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
     }
   ]
 }

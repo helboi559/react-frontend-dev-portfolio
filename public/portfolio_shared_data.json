@@ -72,6 +72,16 @@
         "name": "Redux",
         "class": "devicon-redux-original",
         "level": "90"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "90"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original",
+        "level": "90"
       }
     ]
   }
