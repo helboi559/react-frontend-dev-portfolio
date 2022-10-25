@@ -12,6 +12,7 @@ class ProjectDetailsModal extends Component {
       var title = this.props.data.title;
       var description = this.props.data.description;
       var url = this.props.data.url;
+      var code = this.props.data.code;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -77,11 +78,27 @@ class ProjectDetailsModal extends Component {
             </AwesomeSlider>
           </div>
           <div className="col-md-10 mx-auto">
+            <h2 style={{ padding: "5px 5px 0 5px" }}>
+              {title} 
+            </h2>
             <h3 style={{ padding: "5px 5px 0 5px" }}>
-              {title}
+              Live Demo
               {url ? (
                 <a
                   href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    className="fas fa-external-link-alt"
+                    style={{ marginLeft: "10px" }}
+                  ></i>
+                </a>
+              ) : null} |
+              Code{code ? (
+                <a
+                  href={code}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="link-href"
