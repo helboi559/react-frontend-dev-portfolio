@@ -65,15 +65,16 @@
     {
       "title": "ECommerce Store",
       "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Shopper can browse through products, make a purchase, and view their order history with a mobile/pc friendly interface. This full stack (MERN) website is integrated with REST. Main features include secure user registration through One-click w/ OAuth 2.0 via google or JSON Web Token (JWT), Role Base Access to handle permissions for sensitive information such as viewing sales chart data and create/delete/edit products. This website is styled via CSS framework Material UI for responsiveness.",
       "images": [
-        "https://i.imgur.com/wNfUR97.png",
-        "https://i.imgur.com/OogChWQ.jpg",
-        "https://i.imgur.com/9uPBwDz.jpg",
-        "https://i.imgur.com/eIJ2Skw.jpg"
+        "https://i.imgur.com/7JykQrw.png",
+        "https://i.imgur.com/dUyhhfD.png",
+        "https://i.imgur.com/wN68b66.png",
+        "https://i.imgur.com/My1vAo9.png",
+        "https://i.imgur.com/1tNaVTT.png"
       ],
-      "url": "https://mileage-expnese-tracker.netlify.app/",
-      "code": "https://github.com/helboi559/expense-tracker-frontend",
+      "url": "https://e-shop-site-commerce.netlify.app/",
+      "code": "https://github.com/helboi559/final-client-shopping",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -102,30 +103,14 @@
         {
           "class": "devicon-heroku-plain",
           "name": "Heroku"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-git-plain",
+          "name": "Git"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-github-plain",
+          "name": "Github"
         }
       ]
     }
@@ -134,8 +119,8 @@
     {
       "company": "Independent",
       "title": "Independent Web Developer",
-      "years": "01.2022- present",
-      "mainTech": ["React -Present"],
+      "years": "06.2021- present",
+      "mainTech": ["React-Present"],
       "technologies": [
         "REST API",
         "OAuth 2.0",
