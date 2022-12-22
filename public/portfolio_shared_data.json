@@ -82,6 +82,11 @@
         "name": "Github",
         "class": "devicon-github-original",
         "level": "90"
+      },
+      {
+        "name": "Amazon Web Services",
+        "class": "devicon-amazonwebservices-original",
+        "level": "80"
       }
     ]
   }

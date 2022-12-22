@@ -21,7 +21,7 @@
         "https://i.imgur.com/eIJ2Skw.jpg",
         "https://i.imgur.com/hoLDZyk.png"
       ],
-      "url": "https://mileage-expnese-tracker.netlify.app/",
+      "url": "https://mileage-tracker.ramirezjc.com/",
       "code": "https://github.com/helboi559/expense-tracker-frontend",
       "technologies": [
         {
@@ -59,6 +59,10 @@
         {
           "class": "devicon-github-plain",
           "name": "Github"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "amazonwebservices"
         }
       ]
     },
