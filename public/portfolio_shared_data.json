@@ -1,7 +1,11 @@
 {
   "basic_info": {
     "name": "Juan Ramirez",
-    "titles": ["Front-end Developer", "Software Engineer"],
+    "titles": [
+      "Software Engineer",
+      "Front-end Developer",
+      "Back-end Developer"
+    ],
     "social": [
       {
         "name": "github",
@@ -86,6 +90,11 @@
       {
         "name": "Amazon Web Services",
         "class": "devicon-amazonwebservices-original",
+        "level": "80"
+      },
+      {
+        "name": "Nginx",
+        "class": "devicon-nginx-original",
         "level": "80"
       }
     ]

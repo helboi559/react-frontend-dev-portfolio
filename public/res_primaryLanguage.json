@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Juan Ramirez. I'm working with newest front-end framework React. Currently, I focus on creating, testing & improving my work. I typically use HTML/CSS and React for responsive websites and Nodejs, Express, Mongodb on server-side applications via REST.⭐ ",
+    "description": "👋 I'm Juan Ramirez. I'm working with newest front-end framework React and AWS Cloud. Currently, I focus on creating, testing & improving my work. I typically use HTML/CSS and React for responsive websites and Nodejs, Express, Mongodb on server-side applications via REST. After being AWS Cloud certified, I expanded my knowledge in cloud computing and began deploying and maintaining web applications with/without servers.⭐ ",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -63,6 +63,10 @@
         {
           "class": "devicon-amazonwebservices-original",
           "name": "amazonwebservices"
+        },
+        {
+          "class": "devicon-nginx-plain",
+          "name": "nginx"
         }
       ]
     },
@@ -122,7 +126,7 @@
   "experience": [
     {
       "company": "Independent",
-      "title": "Independent Web Developer",
+      "title": "Independent Software Engineer",
       "years": "06.2021- present",
       "mainTech": ["React-Present"],
       "technologies": [

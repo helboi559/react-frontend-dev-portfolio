@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-// import angularIcon from "@iconify/icons-logos/angular-icon";
+import awsIcon from "@iconify/icons-logos/aws";
 import reactIcon from "@iconify/icons-logos/react";
 // import vueIcon from "@iconify/icons-logos/vue";
+// import { RoughNotation, RoughNotationGroup } from "react-rough-notation";
 
 class About extends Component {
   render() {
@@ -30,10 +31,10 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  {/* <Icon
-                    icon={angularIcon}
+                  <Icon
+                    icon={awsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
+                  />
                   <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
