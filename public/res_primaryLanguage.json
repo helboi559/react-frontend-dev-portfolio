@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Juan Ramirez. I'm working with newest front-end framework React and AWS Cloud. Currently, I focus on creating, testing & improving my work. I typically use HTML/CSS and React for responsive websites and Nodejs, Express, Mongodb on server-side applications via REST. After being AWS Cloud certified, I expanded my knowledge in cloud computing and began deploying and maintaining web applications with/without servers.⭐ ",
+    "description": "👋 I'm Juan Ramirez. I'm working with the newest front-end framework React and AWS Cloud. Currently, I focus on creating, testing & improving my work. I typically use HTML/CSS and React for responsive websites and Nodejs, Express, Mongodb on server-side applications via REST. After being AWS Cloud certified, I expanded my knowledge in cloud computing and began deploying and maintaining web applications with/without servers.⭐ ",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -127,7 +127,7 @@
     {
       "company": "Independent",
       "title": "Independent Software Engineer",
-      "years": "06.2021- present",
+      "years": "08.2021- present",
       "mainTech": ["React-Present"],
       "technologies": [
         "REST API",
@@ -138,9 +138,15 @@
         "Git",
         "GitHub",
         "HTML",
-        "CSS",
-        "Sendgrid"
+        "CSS"
       ]
+    },
+    {
+      "company": "United Parcel Service",
+      "title": "Software Developer",
+      "years": "10.2016- 01.2021",
+      "mainTech": ["React-Present"],
+      "technologies": ["JavaScript", "HTML", "CSS", "GitHub", "Git", "CSS"]
     }
   ]
 }
